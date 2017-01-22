@@ -1,0 +1,24 @@
+{
+  "name": "feinstaub",
+  "version": "1.0.0",
+  "description": "AlexaSkill für Feinstaubalarm in Stuttgart",
+  "main": "server.js",
+  "dependencies": {
+    "alexa-app-server": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ydreher/AlexaFeinstaub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ydreher/AlexaFeinstaub/issues"
+  },
+  "homepage": "https://github.com/ydreher/AlexaFeinstaub#readme"
+}
